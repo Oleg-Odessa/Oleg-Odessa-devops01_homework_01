@@ -1,1 +1,1 @@
-Made changes in feature-branch
+Made changes in the new-branch
